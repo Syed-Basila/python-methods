@@ -1,4 +1,4 @@
-# python-methods
+## python-methods
 string methods using python\
 # Python String Methods - Jupyter Notebook
 
